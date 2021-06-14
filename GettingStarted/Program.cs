@@ -1,0 +1,10 @@
+﻿namespace GettingStarted
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            
+        }
+    }
+}
